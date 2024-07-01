@@ -1,0 +1,18 @@
+print("Hello world")
+print(5)
+print("bye",7)
+print(17*13)
+
+# single-line comment
+# multi-line comment -
+'''
+hey
+i am a good boy
+''' 
+
+print("Hey I am a good boy\nand this viewer is also a good boy/girl") #escape characer (\n)
+
+print("Hey I am a \"good boy\"\nand this viewer is also a good boy/girl") #escape characer (\")
+
+print("Hey",6,7,sep="~",end="009\n")
+print("Harry")
